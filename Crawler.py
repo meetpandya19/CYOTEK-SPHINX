@@ -10,11 +10,7 @@ class bColors:
 
 ascii_banner = pyfiglet.figlet_format("Cyotek   Sphinx")
 print(bColors.BLUE + ascii_banner)
-# result = pyfiglet.figlet_format("Developed Under: VIEH Group", font="digital")
-# print(bColors.GREEN + result)
-# print("                                                              -@viehgroup")
-# result2 = pyfiglet.figlet_format("VIEH GROUP", font="slant")
-# print(bColors.YELLOW + result2)
+
 result1 = pyfiglet.figlet_format("Developed By:Meet", font="digital")
 print(bColors.BLUE + result1)
 print("                                                              - @meetpandya_19")
